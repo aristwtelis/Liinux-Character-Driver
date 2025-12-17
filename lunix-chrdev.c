@@ -4,7 +4,7 @@
  * Implementation of character devices
  * for Lunix:TNG
  *
- * < Your name here >
+ * < Aristotelis Georgios Dritsas >
  *
  */
 
